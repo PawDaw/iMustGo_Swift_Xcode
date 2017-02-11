@@ -22,5 +22,5 @@ The app on the front panel shows a zoomed map of Aarhus with pin representation 
 ```
 
 <p align="center">
-  <img src="example_2.png" width="350"/>
+  <img src="example_2.png" width="550"/>
 </p>
